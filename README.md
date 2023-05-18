@@ -24,9 +24,10 @@
 <br/>
 
 ## About Me
-<a href="https://velog.io/@dacircle" target="_blank"><img src="https://img.shields.io/badge/dacircle.log(Blog)-f9f9f9?style=for-the-badge&logo=velog&logoColor=20C997"/></a>  
+<a href="https://velog.io/@dacircle" target="_blank"><img src="https://img.shields.io/badge/dacircle.log(Blog)-f9f9f9?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
+<a href="https://dawonoh.github.io/" target="_blank"><img src="https://img.shields.io/badge/dawon's blog-222222?style=for-the-badge&logo=githubpages&logoColor=20C997"/></a><br/>
 [![DawonOh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawonOh&show_icons=true&title_color=676FA3&icon_color=FF5959)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawonOh&exclude_repo=github-readme-stats,WGWG_GoodieGroupware,anuraghazra.github.io&layout=compact&title_color=676FA3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawonOh&exclude_repo=github-readme-stats,WGWG_GoodieGroupware,anuraghazra.github.io,DawonOh.github.io&layout=compact&title_color=676FA3)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 <br/>
